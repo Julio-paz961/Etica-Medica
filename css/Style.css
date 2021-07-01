@@ -1,0 +1,38 @@
+.init1{
+    background-color:rgb(41, 48, 57);
+    color: rgb(0,194,203);
+    margin: auto;
+    padding: auto;
+}
+.init{
+    background-color:rgb(41, 48, 57);
+    color: rgb(0,194,203);
+    margin: 10px;
+    padding: auto;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+.init-btn,.init-btn:hover,.init-btn:active,.init-btn:after,.init-btn:visited{
+    background-color:rgb(0,194,203);
+    border:rgb(0,194,203);
+    color: rgb(41, 48, 57);
+    height: auto;
+    border-radius: 5px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    margin: 10px auto ;
+
+}
+.logos{
+    padding: auto;
+    
+}
+img{
+    border-radius: 3px;
+}
